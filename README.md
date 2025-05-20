@@ -14,9 +14,9 @@
 - Participate actively in writing activities. Students will be able to produce documents related to technology by writing clearly, concisely, and logically.
 - Get an overview of tools used in technical writing and learn more about cross-team collaboration.
 
-### Information Only for BUT Students - Spring 2024:
-
-For information about assessment, homework and grading, see Information for [BUT students - spring 2024](BUT-students-spring-2024.pdf).
+## Communication:
+* [Discord](https://discord.gg/8C5Ty4WfU7)
+* Teacher emails: gfialova@redhat.com, jherrman@redhat.com
 
 ## Lecture Overview:
 The lecture overview is only tentative.
