@@ -1,4 +1,4 @@
-# The fundamentals of technical writing | BUT 2025 course
+# The fundamentals of technical writing | BUT 2025 course 
 
 **Learn the essentials of technical communication in IT in a fortnight-long course at the Brno University of Technology.**
 
