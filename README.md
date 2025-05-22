@@ -15,7 +15,7 @@
 - Get an overview of tools used in technical writing and learn more about cross-team collaboration.
 
 ## Communication:
-* [Discord](https://discord.gg/8C5Ty4WfU7)
+* [Discord](https://discord.gg/8C5Ty4WfU7) - [Alternate invite](https://discord.com/invite/36aEfa7ret)
 * Teacher emails: gfialova@redhat.com, jherrman@redhat.com
 
 ## Lecture Overview:
