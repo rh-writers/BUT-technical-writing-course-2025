@@ -27,16 +27,18 @@ The lecture overview is only tentative.
 * A day in the life of a technical writer
 * Types of technical documentation and their specifics
 * Target audience, grading, and using AI tools in this course
-* [Slides for Day 1](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/2025-Day-1_Introduction%20to%20technical%20writing%20-%20BUT%202025.pdf)
-* [Homework for Day 2](https://docs.google.com/document/d/1ibK_zqJK3swErivjGnIVWliqOXnj7lP3nLab3WIRPFg/copy)
+* [Slides for day 1](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-1_Introduction%20to%20technical%20writing%20-%20BUT%202025.pdf)
+* [Homework from day 1](https://docs.google.com/document/d/1ibK_zqJK3swErivjGnIVWliqOXnj7lP3nLab3WIRPFg/copy)
 
 ### 2. Style I:
 * Comparison of writing styles, objectives of technical writing style: Accessibility, Readability, Searchability
+* Usability best practices
+* [Slides for day 2](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-2_Tech%20writing%20style%20I%20-%20BUT%202025.pdf)
+* [Homework from day 2](https://docs.google.com/document/d/1s-7HAVXC_k34jGdZ5Sp2bRDFDf1hjivWDvdIFI0lN8k/copy)
 
 ### 3. Style II:
 * Minimalism, modularity and structure
 * User focus and information flow
-* Usability
 * Style guides
 
 ### 4. Soft skills:
