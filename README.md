@@ -40,6 +40,8 @@ The lecture overview is only tentative.
 * Minimalism, modularity and structure
 * User focus and information flow
 * Style guides
+* [Slides for day 3](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-3_Tech%20writing%20style%20II%20-%20BUT%20Spring%202025.pdf)
+* [Homework from day 3](https://www.youtube.com/watch?v=7iWUSetbaos)
 
 ### 4. Soft skills:
 * Empathy, ethics, cultural awareness, communication skills, curiosity, proactivity, editorial skills, time management
