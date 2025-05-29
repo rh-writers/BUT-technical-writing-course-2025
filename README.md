@@ -46,7 +46,7 @@ The lecture overview is only tentative.
 ### 4. Soft skills:
 * Empathy, ethics, cultural awareness, communication skills, curiosity, proactivity, editorial skills, time management
 * [Slides for day 4 morning](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-4_SoftSkills%20BUT%20morning%20session.pdf)
-
+* [Slides for day 4 afternoon](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025%20Day%204%20-%20SoftSkills%202025_afternoon%20exercises.pdf)
 
 ### 5. Hard skills:
 * Definition of hard skills in technical writing, why we need them
