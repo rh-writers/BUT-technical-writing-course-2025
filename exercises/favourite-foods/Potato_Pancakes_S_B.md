@@ -4,9 +4,9 @@
 ## 2 follow the recipe
 ### prerequisites:
 * Ingredients: 0.5kg of potatoes, 2 eggs, 3 tablespoons of flour, some salt and pepper, sunflower oil, ketchup, clean water
-* Equipment: Dish for mixing ingredients, frying pan, pan lid, working stove, baking dish, owen
+* Equipment: Dish for mixing ingredients, frying pan, working stove, baking dish, owen
 ### Work process
-* Grate the potatoes, It's better when you rub it, let them sit for 5 minutes and drain all the liquid from the bottom.
+* Peel the potatoes. Grate the potatoes, It's better when you rub it, let them sit for 5 minutes and drain all the liquid from the bottom.
 * Get potatoes, eggs (shelless), flour, salt and pepper, and mix them in a dish until close to uniform structure.
 * Heat up the frying pan to make it hot (2 min), pour oil. The oil should also be heated for 2 min.
 * Put the ingredient mixture on the pan with a table spoon, 2-3 spoons = one potato pancake.
