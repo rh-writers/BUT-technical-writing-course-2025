@@ -30,4 +30,4 @@ A easy recipie for a variant of the clasic Austrian wiener schnitzel
 13. put the meats on a frying pan, if some dont fitm just wait before the others are done
 15. check on the meat every so often, if it turns golden yellow than turn it on the pan and wait for the other side to have the same colour
 16. after both sides are done, place them on a plate and let them cool down
-    
+17. Now you can enjoy your schnitzel with some bread or potatoes
