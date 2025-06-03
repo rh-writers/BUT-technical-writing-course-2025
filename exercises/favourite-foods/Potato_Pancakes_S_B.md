@@ -4,7 +4,7 @@
 ## 2 follow the recipe
 ### prerequisites:
 * Ingredients: 0.5kg of potatoes, 2 eggs, 3 tablespoons of flour, some salt and pepper, sunflower oil, ketchup, clean water
-* Equipment: Grater, tablespoon, dish for mixing ingredients, frying pan, working stove, baking dish, owen
+* Equipment: Grater, tablespoon, dish for mixing ingredients, frying pan, working stove, baking dish, baking dish lidowen
 ### Work process
 * Peel the potatoes. Grate the potatoes on the grater, Let them sit for 5 minutes and drain all the liquid from the bottom.
 * Get potatoes, eggs (shelless), flour, salt and pepper, and mix them in a dish until close to uniform structure.
@@ -16,6 +16,6 @@
 
 ***
 * **If you want to improve the taste, stew the pancakes.**
-* Put the panckaes in a baking dish, pour ketchup diluted with water or tomato paste on the pancakes.
+* Put the panckaes in a baking dish, pour ketchup diluted with water or tomato paste on the pancakes and close the baking dish with the lid.
 > mix the liquids beforehand.
 * Stew the pancakes in the oven for 10-15 minutes (start with medium heat (180 degrees C), continue with low heat if needed)).
