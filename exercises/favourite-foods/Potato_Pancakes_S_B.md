@@ -4,7 +4,7 @@
 ## 2 follow the recipe
 ### prerequisites:
 * Ingredients: 0.5kg of potatoes, 2 eggs, 3 tablespoons of flour, some salt and pepper, sunflower oil, ketchup, clean water
-* Equipment: Grater, dish for mixing ingredients, frying pan, working stove, baking dish, owen
+* Equipment: Grater, tablespoon, dish for mixing ingredients, frying pan, working stove, baking dish, owen
 ### Work process
 * Peel the potatoes. Grate the potatoes on the grater, Let them sit for 5 minutes and drain all the liquid from the bottom.
 * Get potatoes, eggs (shelless), flour, salt and pepper, and mix them in a dish until close to uniform structure.
