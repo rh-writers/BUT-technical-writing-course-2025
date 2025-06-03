@@ -9,7 +9,7 @@
 * Peel the potatoes. Grate the potatoes on the grater, Let them sit for 5 minutes and drain all the liquid from the bottom.
 * Get potatoes, eggs (shelless), flour, salt and pepper, and mix them in a dish until close to uniform structure.
 * Heat up the frying pan to make it hot (2 min), pour oil. The oil should also be heated for 2 min.
-* Put the ingredient mixture on the pan with a table spoon, 2-3 spoons = one potato pancake.
+* Put the ingredient mixture on the pan with a table spoon, 2 spoonfuls of the mixture= one potato pancake.
 * Fry on both sides for 3 minutes (medium heat).
 
   ![image](https://github.com/user-attachments/assets/31ea217f-4f45-4a6e-9bdd-0befcd15f2ad)
