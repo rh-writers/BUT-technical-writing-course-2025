@@ -6,7 +6,7 @@
 * 1 cup  milk
 * 2 tbsp butter
 * salt
-* ground peper
+* ground pepper
 
 ## Directions:
 1. Peel the potatoed and dice them into quarters
