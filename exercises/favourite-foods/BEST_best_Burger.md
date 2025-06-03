@@ -16,6 +16,6 @@
 2. Put on a grill on medium heat and cook it until it is nice and brown
 3. Flip it
 4. After it is cooked, take out the meat from the grill and put slice or two on the meat
-## Buildning the BURGER
+## Building the BURGER
 1. Cut the bum in half
-2. First goes bottom bum, sauce, meat, sauce, tomato cut into circles, pickle, another sauce, top bum
+2. First goes bottom bum, on it sauce, then meat, another sauce, tomato cut into circles, pickle, and another sauce, top bum
