@@ -15,7 +15,7 @@
   ![image](https://github.com/user-attachments/assets/31ea217f-4f45-4a6e-9bdd-0befcd15f2ad)
 
 ***
-* ### If you want to improve the taste, stew the pancakes.
+* **If you want to improve the taste, stew the pancakes.**
 * Put the panckaes in a baking dish, pour ketchup diluted with water or tomato paste,
 > mix the liquids beforehand.
 * Stew the pancakes in the oven for 10-15 minutes (start with medium heat (180 degrees C), continue with low heat if needed)).
