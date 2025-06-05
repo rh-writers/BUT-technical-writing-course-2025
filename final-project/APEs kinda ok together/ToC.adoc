@@ -1,6 +1,6 @@
-&#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#1-prerequisites[1. Prerequisites]
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#1-prerequisites[1. Prerequisites]
 
-&#160;https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#2-procedure[2. Procedure]
+&#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#2-procedure[2. Procedure]
 
 >https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#what-you-should-aim-for[>What you should aim for?]
 
