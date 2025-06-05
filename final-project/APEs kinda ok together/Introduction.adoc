@@ -6,7 +6,7 @@ This paper provides steps and information on how to become a professional techni
 
 > 1. Prerequisites
 
->  2. Procedure
+> > 2. Procedure
 
 What you should aim for?
 
