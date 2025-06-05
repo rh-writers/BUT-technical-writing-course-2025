@@ -13,7 +13,7 @@ This paper provides steps and information on how to become a professional techni
 ## Procedure
   If you want to become a great technical writer, you need to follow certain guidelines.
   what you shloud aim for:
-* accessibility
-* readibility
-* findability
-* minimalism 
+ * accessibility
+ * readibility
+ * findability
+ * minimalism 
