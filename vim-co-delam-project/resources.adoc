@@ -15,3 +15,5 @@ Every  information we gathered was considered after long our hour without sleep.
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-5-PM-Tooling.pdf[Resource 8] - Languages(XML, DocBook, Dita, toolkit,reStructured Text (RTS),Sphinx), Collaboration tools
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-6%20-%20Collaboration%20%26%20Teamwork%20-%20BUT%202025.pdf[Resource 9] - Collaboration & Teamwork
 - https://www.google.com[Google] - Simply YES
+
+### IN CASE OF EMERGENCY
