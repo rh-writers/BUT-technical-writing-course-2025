@@ -16,11 +16,11 @@
 .As a writer, it is important to know what things to focus on, in order to produce the best product.
 *While reviewing the documentation you should focus on:*
 
-* scannability
-* readability
-* structure
+* Scannability
+* Readability
+* Structure
 * C C C
-** clear
-** concise
-** consistent
+** Clear
+** Concise
+** Consistent
 
