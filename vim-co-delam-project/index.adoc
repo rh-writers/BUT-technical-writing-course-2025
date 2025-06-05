@@ -1,6 +1,8 @@
 = VimCoDelam
 == Table of content
 
+Our table of content:
+
 include::about-us.adoc[leveloffset=+1]
 
 include::main-project.adoc[leveloffset=+1]
