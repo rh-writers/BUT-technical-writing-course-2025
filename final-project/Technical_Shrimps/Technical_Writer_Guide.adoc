@@ -1,18 +1,18 @@
 = *Table of Contents*
 
-*Contents of the srimpwrite:*
+*Contents of the shrimpwrite:*
 
-. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/Technical_Writer_Guide.adoc[Introduction]
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/Technical_Shrimps/Technical_Writer_Guide.adoc[Introduction]
 
-. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/Technical_Writer_Guide.adoc[Prerequisites]
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/Technical_Shrimps/Technical_Writer_Guide.adoc[Prerequisites]
 
-. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/List_of_steps_to_begin_with.adoc[What to begin with]
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/Technical_Shrimps/List_of_steps_to_begin_with.adoc[What to begin with]
 
-. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/Main_Points.adoc[To regard as a tech. writer]
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/Technical_Shrimps/Main_Points.adoc[To regard as a tech. writer]
 
-. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/StyleGuides.adoc[Writing styles]
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/Technical_Shrimps/StyleGuides.adoc[Writing styles]
 
-. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/FAQ.adoc[FAQ]
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/Technical_Shrimps/FAQ.adoc[FAQ]
 
 
 = Guide to becoming a shrimp technical writer
