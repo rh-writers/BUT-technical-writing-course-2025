@@ -1,1 +1,28 @@
-neco
+ How to make a living as a technical writer
+
+This paper provides steps and information on how to become a professional technical writer.
+
+.A table of contents
+[%autowidth]
+|===
+|vec 1
+|vec 2
+|vec 3
+|===
+
+##  Prerequisites
+* a laptop or a computer
+* a working pair of hands
+* a working brain 
+* logical thinking
+* working eyes (at least one)
+
+
+## Procedure
+  If you want to become a great technical writer, you need to follow certain guidelines.
+  what you shloud aim for:
+
+* accessibility
+* readibility
+* findability
+* minimalism 
