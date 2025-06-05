@@ -2,7 +2,7 @@
 
 This is technical writing about technical writing
 
-== What is technical writing?
+== 1. What is technical writing?
 * We use technical writing for anyone to learn about specific product. 
 * It helps users to achieve their goals
 * It must be **accurate, clear and effective** 
@@ -14,7 +14,7 @@ This is technical writing about technical writing
 * Software documentation
 * Solutions
 
-== Prerequisits
+== 2. Prerequisites
 To write a good technical documentation, you need a specific set of skills and know-how
 
 === Required technology
@@ -25,24 +25,28 @@ To write a good technical documentation, you need a specific set of skills and k
 === Know your style guides
 * Technical documentation is usually written in markup language (AsciiDoc)
 * Different types of technical writing require specific text modification
-* 
 
 === Version Control System
-You need to to be able to work with your team effectively. By using "version control system", you can track changes made to the project and share it with others.
-* 
-*
+You need to to be able to work with your team effectively. 
+By using "version control system", you can:
+* Track changes made to the project.
+* Share with others and get feedback
+* Have visual structure of the project
 
-
-== Structure
-*
+== 3. Structure
+It is important to keep stre structure of the text sip/mple and easy to follow. 
 
 === 3Cs (clear, consise, consistent)
 *Every text should be clear so everyone can understand it. 
 *Every text should be consise so readers dont waste time reading **fluff**
 *Every text should be consistent so it makes navigating in the document as easy as possible 
 
-== Think about your target audience
-== Make it simple!
-== Table of contents
-== Logical workflow
-== Troubleshooting
+== 4. Think about your target audience
+== 5. Make it simple!
+As mentioned before,
+== 6. Table of contents
+Table of contents helps unexperienced readers to navigate in the document more easily
+
+== 7. Logical workflow
+
+== 8. Troubleshooting
