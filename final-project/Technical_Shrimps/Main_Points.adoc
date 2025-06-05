@@ -1,6 +1,6 @@
 = Main points
 
-.Each documantation is an important part of the product, as such, it has to follow certain guidelines.
+.Each documentation is an important part of the product, as such, it has to follow certain guidelines.
 *The documentation should include:*
 
 * Spellchecking — the documents can contain gramatical errors. They can be reviewed with the use of dedicated programs.
@@ -20,6 +20,6 @@
 * Readability - the document should be accessable to everyone.
 * C C C
 ** Clear - the text should contain language on the level of the consumer.
-** Concise - the lext should not contain fluf.
+** Concise - the text should not contain unnecessary wordings wich provide no useful information (fluff).
 ** Consistent - the formatting should not change throughout the document.
 
