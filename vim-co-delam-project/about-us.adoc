@@ -1,6 +1,6 @@
 == Who We Are
 
-We are a team of  VUT APE students working together on a final project focused on technical writing. 
+We are a team of students from VUT APE, working together on a final project focused on technical writing. 
 
 == Our Goal
 
