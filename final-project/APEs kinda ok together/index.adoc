@@ -4,4 +4,4 @@ https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed
 
 https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/ToC.adoc[Table of Contents]
 
-include::About_APEs.adoc[leveloffset=+1]
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/About_APEs.adoc[About APEs]
