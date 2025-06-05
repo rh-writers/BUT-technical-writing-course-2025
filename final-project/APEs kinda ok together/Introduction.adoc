@@ -3,7 +3,7 @@
 This paper provides steps and information on how to become a professional technical writer.
 
 :table-caption!:
-*A table of contents*
+.*A table of contents*
 [%autowidth]
 |===
 |Prerequisites
