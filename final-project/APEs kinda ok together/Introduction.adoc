@@ -13,11 +13,11 @@ This paper provides steps and information on how to become a professional techni
 
 ##  Prerequisites
 
-* a laptop or a computer
-* a working pair of hands
-* a working brain 
-* logical thinking
-* working eyes (at least one)
+* A laptop or a computer
+* A working pair of hands
+* A working brain 
+* Logical thinking
+* Working eyes (at least one)
 
 
 ## Procedure
@@ -28,13 +28,13 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 #### Accessibility
 
-* your text should be availible to everyone with disabilities
-* make sure your text can be read by a machine
-* you can achieve this by minimising screenshots
+* Your text should be availible to everyone with disabilities
+* Make sure your text can be read by a machine
+* You can achieve this by minimising screenshots
 
 #### Readibility
 
-* make sure your text follows the  3 Cs:
+* Make sure your text follows the  3 Cs:
 
 ** Clear 
 ** Concise 
@@ -44,15 +44,15 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 ##### External
 
-* make sure your text is easily findable on the internet by using an appropriate title 
+* Make sure your text is easily findable on the internet by using an appropriate title 
 
 ##### Internal 
 
-* make sure your text is well structured, Keywords are highlighted 
+* Make sure your text is well structured, Keywords are highlighted 
 
 #### Minimalism
 
-* use simple language, if you need to use complicated words provide an explanation
+* Use simple language, if you need to use complicated words provide an explanation
 
 
 
@@ -61,9 +61,9 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 working as a technical writer is not only about typing but mostly about communication
 
-* bon´t be afraid to ask questions and feedback
-* be curious
-* be polite and respectful!
+* Don´t be afraid to ask questions and feedback
+* Be curious
+* Be polite and respectful!
 
 Hard skills
 when writing a technical documentation you need to educated in the product
