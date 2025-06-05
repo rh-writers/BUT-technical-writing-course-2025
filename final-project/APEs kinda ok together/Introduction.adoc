@@ -50,13 +50,7 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 #### Minimalism
 
-use simple language, if you need to use complicated words provide an explanation
-
-* accessibility
-* readability
-* findability
-* minimalism 
-
+* use simple language, if you need to use complicated words provide an explanation
 
 
 
