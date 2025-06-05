@@ -42,11 +42,15 @@ It is important to keep stre structure of the text sip/mple and easy to follow.
 *Every text should be consistent so it makes navigating in the document as easy as possible 
 
 == 4. Think about your target audience
+It is important to know, who you write for.
+* Use appropriate vocabulary
+* 
 == 5. Make it simple!
 As mentioned before,
 == 6. Table of contents
 Table of contents helps unexperienced readers to navigate in the document more easily
 
-== 7. Logical workflow
-
-== 8. Troubleshooting
+== 7. Soft Skills for Technical writing
+== 8. Hard Skills for Technical writing
+== 9. Logical workflow
+== 10. Troubleshooting
