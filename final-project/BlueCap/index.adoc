@@ -1,1 +1,5 @@
+= BlueCap
 
+"Any Resemblance to Other Headwear named IT firms Is Purely Coincidental (and Under Investigation)"
+
+include::About_becoming_the_best.adoc[leveloffset=+1]
