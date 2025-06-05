@@ -37,22 +37,22 @@ By using "version control system", you can:
 It is important to keep stre structure of the text sip/mple and easy to follow. 
 
 === 3Cs (clear, consise, consistent)
-*Every text should be clear so everyone can understand it. 
-*Every text should be consise so readers dont waste time reading **fluff**
-*Every text should be consistent so it makes navigating in the document as easy as possible 
+
+* Every text should be clear so everyone can understand it. 
+* Every text should be consise so readers dont waste time reading **fluff**
+* Every text should be consistent so it makes navigating in the document as easy as possible 
 
 == 4. Think about your target audience
 It is important to know, who you write for.
+
 * Use appropriate vocabulary
-
 * Language(technical, simple)
-
 * Level of detail
-
 * Format and purpose
 
 == 5. Make it simple!
 As mentioned before, 
+
 == 6. Table of contents
 Table of contents helps unexperienced readers to navigate in the document more easily
 
