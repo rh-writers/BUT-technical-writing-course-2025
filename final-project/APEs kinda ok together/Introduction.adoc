@@ -60,7 +60,9 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 
 ## Soft skills
+
 working as a technical writer is not only about typing but mostly about communication
+
 * bon´t be afraid to ask questions and feedback
 * be curious
 * be polite and respectful!
