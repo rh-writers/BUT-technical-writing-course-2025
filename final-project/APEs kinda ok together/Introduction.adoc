@@ -36,7 +36,9 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 * make sure your text follows the  3 Cs:
 
-  * Clear * Concise * Consistent
+** Clear 
+** Concise 
+** Consistent
 
 #### Findability
 
