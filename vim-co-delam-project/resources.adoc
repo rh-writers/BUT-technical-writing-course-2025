@@ -9,3 +9,4 @@ Taken from best repository of knowledge of ALL TIME
 - [Resource 7](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-5-LLM%20and%20generative%20AI%20-%20VUT%202025.pdf)
 - [Resource 8](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-5-PM-Tooling.pdf)
 - [Resource 9](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-6%20-%20Collaboration%20%26%20Teamwork%20-%20BUT%202025.pdf)
+https://www.google.com[Google]
