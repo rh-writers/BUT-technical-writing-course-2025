@@ -42,7 +42,7 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 * Internal 
 
-** Ensure your text is well-structured. ** Keywords are highlighted 
+** Ensure your text is well-structured. Keywords are highlighted 
 
 #### 2.1.4 Minimalism
 
