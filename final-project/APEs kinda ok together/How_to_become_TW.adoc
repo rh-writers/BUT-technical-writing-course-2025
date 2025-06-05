@@ -21,6 +21,8 @@ https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed
 
 https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#4-hard-skills[4. Hard Skills]
 
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/About_APEs.adoc#about-us[5. About us]
+
 
 ##  1. Prerequisites
 
