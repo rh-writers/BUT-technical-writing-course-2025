@@ -42,8 +42,8 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 #### Accessibility
 
-* Your text should be availible to everyone with disabilities
-* Make sure your text can be read by a machine
+* Your text should be available to everyone with disabilities
+* Make sure a machine can read your text
 * You can achieve this by minimising screenshots
 
 #### Readibility
@@ -62,11 +62,11 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 * Internal 
 
-** Make sure your text is well structured, Keywords are highlighted 
+**Ensure your text is well-structured. ** Keywords are highlighted 
 
 #### Minimalism
 
-* Use simple language, if you need to use complicated words provide an explanation
+* Use simple language, if you need to use complicated words, provide an explanation
 
 
 
