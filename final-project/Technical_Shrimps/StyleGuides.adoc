@@ -1,9 +1,9 @@
 # Style guides
 
-Style guides are something you can follow to write your document, mostly the company where you work gives you one.
-There are many style guides, each company has its own rules.
+Style guides are something you can follow to write your document. They are usualy provided by your company.
+There are many style guides, most companies have their own.
 
-The rules include:
+The style guide rules inculde:
 
 * Use of hyphens
 * Use of columns
