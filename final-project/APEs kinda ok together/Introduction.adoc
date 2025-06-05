@@ -31,24 +31,27 @@ To become a great technical writer, you need to follow certain guidelines.
 * findability
 * minimalism 
 
-Accessibility
+## Accessibility
+
 * your text should be availible to everyone with disabilities
 * make sure your text can be read by a machine
 * you can achieve this by minimising screenshots
 
-Readibility
+## Readibility
+
 * make sure your text follows the  3 Cs
 * Clear 
 * Concise
 * Consistent
 
-Findability
+## Findability
+
 external
 * make sure your text is easily findable on the internet by using an appropriate title 
 internal 
 * make sure your text is well structured, Keywords are highlighted 
 
-Minimalism
+## Minimalism
 * use simple language, if you need to use complicated words provide an explanation
 * accessibility
 * readability
