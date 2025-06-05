@@ -1,4 +1,4 @@
-include::How_to_become_TW.adoc[leveloffset=+1]
+include::How_to_become_TW.adoc
 
 include::Introduction.adoc[leveloffset=+1]
 
