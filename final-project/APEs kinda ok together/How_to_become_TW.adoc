@@ -70,16 +70,15 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 ## 3. Soft skills
 
-Working as a technical writer is not only about typing but mostly about communication
+Working as a technical writer is not only about typing, but mostly about communication
 
 * Don´t be afraid to ask questions and request feedback
 * Be curious
 * Be polite and respectful!
 
 ## 4. Hard skills
-* When writing a technical documentation you need to be educated in the product
-and do your own reasearch
-* You need to know your audinece and decide what level of language to use
-* Follow Style Guides (every product has diffrent styleguides)
+* When writing technical documentation, you need to be educated in the product and do your research
+* You need to know your audience and decide what level of language to use
+* Follow Style Guides (every product has different style guides)
 
 
