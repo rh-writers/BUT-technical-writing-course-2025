@@ -2,7 +2,7 @@
 
 This paper provides steps and information on how to become a professional technical writer.
 
-## A table of contents
+## Table of contents
 https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#1-prerequisites[1. Prerequisites]
 
 https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#2-procedure[2. Procedure]
