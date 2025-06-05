@@ -1,0 +1,26 @@
+= Main points
+
+.Each documantation is an important part of the product, as such, it has to follow certain guidelines.
+*The documentation should include:*
+
+* Spellchecking
+* Consice structure
+**  Logical workflow
+** Prepequisites
+** Steps
+** Verification
+* Acronyms
+* Style guide
+* Version specifity
+
+.As a writer, it is important to know what things to focus on, in order to produce the best product.
+*While reviewing the documentation you should focus on:*
+
+* scannability
+* readability
+* structure
+* C C C
+** clear
+** concise
+** consistent
+
