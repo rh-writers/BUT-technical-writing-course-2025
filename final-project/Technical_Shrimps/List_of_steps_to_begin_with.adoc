@@ -6,7 +6,7 @@ For reference, you can look for example at the https://developers.google.com/sty
 
 Read through it and take in as much information as you can remember 
 
-You can also read our overview of style guides 
+You can also read our https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/StyleGuides.adoc[overview of style guides] 
 
 2) If you have access to a professional technical writer you can discuss with them
 
