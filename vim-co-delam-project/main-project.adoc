@@ -14,7 +14,7 @@ This is technical writing about technical writing
 * Software documentation
 * Solutions
 
-== Prerequisites
+== Prerequisits
 To write a good technical documentation, you need a specific set of skills and know-how
 
 === Required technology
@@ -28,13 +28,19 @@ To write a good technical documentation, you need a specific set of skills and k
 * 
 
 === Version Control System
+You need to to be able to work with your team effectively. By using "version control system", you can track changes made to the project and share it with others.
+* 
 *
-*
-===
+
+
 == Structure
-=== CCC (clear, consise, consistent)
 *
-*
+
+=== 3Cs (clear, consise, consistent)
+*Every text should be clear so everyone can understand it. 
+*Every text should be consise so readers dont waste time reading **fluff**
+*Every text should be consistent so it makes navigating in the document as easy as possible 
+
 == Think about your target audience
 == Make it simple!
 == Table of contents
