@@ -16,5 +16,4 @@ This paper provides steps and information on how to become a professional techni
 * accessibility
 * readibility
 * findability
-* 
 * minimalism 
