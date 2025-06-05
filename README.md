@@ -73,5 +73,10 @@ The lecture overview is only tentative.
 
 ### 7. Final Project
 * Team-based collaborative workshop emulating the work on a documentation task from the beginning till the end
-
+* [Slides for day 7](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-7%20-%20Final%20Project%20%26%20Conclusion%20-%20BUT%202025.pdf)
+* Student final projects
+  * [Technical Shrimps](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/Technical_Shrimps/Technical_Writer_Guide.adoc)
+  * [Vim Co Delam](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/vim-co-delam-project/index.adoc)
+  * [BlueCap](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/BlueCap/index.adoc)
+  * [APEs kinda OK together](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/final-project/APEs%20kinda%20ok%20together/index.adoc)
 
