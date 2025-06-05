@@ -29,6 +29,7 @@ To write a good technical documentation, you need a specific set of skills and k
 === Version Control System
 You need to to be able to work with your team effectively. 
 By using "version control system", you can:
+
 * Track changes made to the project.
 * Share with others and get feedback
 * Have visual structure of the project
@@ -57,6 +58,15 @@ As mentioned before,
 Table of contents helps unexperienced readers to navigate in the document more easily
 
 == 7. Soft Skills for Technical writing
+
+* Communication - active listening and asking questions
+* Adapting and writing for different audiences
+* Attention to detail
+
 == 8. Hard Skills for Technical writing
+
+* Using tools like word/excel/github
+* Understanding the product and technical topics
+* 
 == 9. Logical workflow
 == 10. Troubleshooting
