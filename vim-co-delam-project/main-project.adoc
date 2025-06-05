@@ -32,10 +32,10 @@ By using "version control system", you can:
 
 * Track changes made to the project.
 * Share with others and get feedback.
-* Have visual structure of the project.
+* Has visual structure of the project.
 
 == 3. Structure
-It is important to keep stre structure of the text sip/mple and easy to follow. 
+It is important to keep structure of the text simple and easy to follow. 
 
 === 3Cs (clear, concise, consistent)
 
