@@ -7,9 +7,10 @@
 * Cheese – I use a combination of whole milk mozzarella and parmesan cheese.
 
   ## Directions
-  Make pasta layer, then make bolognese layer.
-  Repeat until the deeptray is almost overflowing with pasta and bolognese sauce.
-  After this, add a bechamel layer and then add a generous amount of cheese on top.
-  Bake at 180C for 25minutes with a foil cover, then remove the cover and bake until the cheese is golden brown.
+  1. Make pasta layer 
+  2. Then make bolognese layer
+  3. Repeat until the deeptray is almost overflowing with pasta and bolognese sauce
+  4. After this, add a bechamel layer and then add a generous amount of cheese on top
+  5. Bake at 180C for 25minutes with a foil cover, then remove the cover and bake until the cheese is golden brown
   
 Enjoy!
