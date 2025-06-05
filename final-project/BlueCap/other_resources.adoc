@@ -1,0 +1,12 @@
+= Possible resources for further study
+
+
+If you are looking for supreme knowledge and want to improve drastically. Look at these links below:
+
+https://docs.asciidoctor.org/[*AsciiDoc guide*]
+
+
+
+https://www.coursera.org/learn/technical-writing-introduction[*Coursera Technical writing course (paid)*]
+
+https://www.udemy.com/courses/search/?src=ukw&q=Technical+writing[*Udemy technical writing courses (paid)*]

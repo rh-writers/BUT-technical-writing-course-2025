@@ -1,0 +1,9 @@
+= BlueCap
+
+"Any Resemblance to other IT firms named after headware is Purely Coincidental (and Under Investigation)"
+
+include::Technical_writing_for_college_students_101.adoc[leveloffset=+1]
+
+include::about_BlueCap.adoc[leveloffset=+1]
+
+include::other_resources.adoc[leveloffset=+1]
