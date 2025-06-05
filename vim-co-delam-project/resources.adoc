@@ -1,6 +1,6 @@
 # **Behold our Resources**
 
-Every  information we gathered was considered after long our hour without sleep. Even one of these "resource" will take you day to even understand, but don't worry WE ARE HERE to help you. We simplified these almost god-like instructions to simple steps to follow so even baby can follow the way of the technical writer.
+Every  information we gathered was considered after long hours without sleep. Even one of these "resource" will take you day to even understand, but don't worry WE ARE HERE to help you. We simplified these almost god-like instructions to simple steps to follow so even baby can follow the way of the technical writer.
 
 
 ## DISCLAIMER Taken from best repository of knowledge of **ALL TIME**.
@@ -16,4 +16,4 @@ Every  information we gathered was considered after long our hour without sleep.
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-6%20-%20Collaboration%20%26%20Teamwork%20-%20BUT%202025.pdf[Resource 9] - Collaboration & Teamwork
 - https://www.google.com[Google] - Simply YES
 
-### !!! IN CASE OF EMERGENCY, PLEASE contact our never sleeping help line, or contact RedHAt Headquartes if the situation is dire. However if you followed our steps and look into the resources you SHOULD BE FINE !!!
+### !!! IN CASE OF EMERGENCY, PLEASE contact our never sleeping help line, or contact RedHat Headquartes if the situation is dire. However if you followed our steps and look into the resources you SHOULD BE FINE !!!
