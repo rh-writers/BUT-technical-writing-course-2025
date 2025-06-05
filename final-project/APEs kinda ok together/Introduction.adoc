@@ -49,7 +49,9 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 * make sure your text is well structured, Keywords are highlighted 
 
 #### Minimalism
-* use simple language, if you need to use complicated words provide an explanation
+
+use simple language, if you need to use complicated words provide an explanation
+
 * accessibility
 * readability
 * findability
