@@ -1,4 +1,41 @@
-= Technical writting for college students 101
+= Technical writing for college students 101
+To become a technical writer, follow these steps. 
+
+== Prerequisites 
+* Have amazing teachers from RedHat
+* Motivation to become the best
+* English language proficiency
+* Social awareness
+* Basic computer skills
+
+== Introduction to tech writing
+* What does a technical writer do? 
+	Creates clear, concise and consistent documentation that helps the user understand and use a product.
+* Types of technical documentation 
+	Manuals/guides, solutions and troubleshooting, release and patch notes  
 
 
-Let's show Braňo what it is to resolve conflicts in text :))))))))
+
+== Styles
+* Goals: accessibility, readability, findability
+* Minimalism
+
+
+== Soft skills
+*Communication
+*Curiosity 
+*Proactivity
+*Teamwork
+*Time management 
+
+
+== Hard skills 
+*Product knowledge
+*Content strategy
+*GitHub proficiency
+
+== Peer review 
+
+
+* Attend the RedHat technical writing course
+* Ask a lot of questions(!)
