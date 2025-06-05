@@ -1,1 +1,16 @@
+= Introduction to Technical Writing
 
+This is technical writing about technical writing
+
+== What is technical writing?
+* We use technical writing for anyone to learn about specific product. 
+* It helps users to achieve their goals
+* It must be **accurate, clear and effective** 
+
+== Prerequisits
+== Structure
+== Think about your target audience
+== Make it simple!
+== Table of contents
+== Logical workflow
+== Troubleshooting
