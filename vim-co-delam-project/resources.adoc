@@ -1,4 +1,4 @@
-# **Behold our Resources**
+# **BEHOLD Our Resources**
 
 Every bit of information these resources contain, was researched for long sleepless hours. In the end it was decided on these 9 holy resources, which are considered as commandments for any technical writer, student or new born baby. Even one of these "resources" will take you day to even understand, but don't worry WE ARE HERE to help you. We simplified these almost god-like instructions to simple steps to follow so even baby can follow the way of the technical writer. After following our instructions and these holy resources you can call yourself "Saint of Technical writing". However, your journey only starts here, because the technical writing will keep testing you throughout every moment foy your life.
 
@@ -16,4 +16,4 @@ Every bit of information these resources contain, was researched for long sleepl
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-6%20-%20Collaboration%20%26%20Teamwork%20-%20BUT%202025.pdf[Resource 9] - Collaboration & Teamwork
 - https://www.google.com[Google] - Simply YES
 
-### !!! IN CASE OF EMERGENCY, PLEASE contact our never sleeping help line, or contact RedHat Headquartes if the situation is dire. However if you followed our steps and look into the resources you SHOULD BE FINE !!!
+#### !!! IN CASE OF EMERGENCY, PLEASE contact our never sleeping help line, or contact RedHat Headquartes if the situation is dire. However if you followed our steps and look into the resources you SHOULD BE FINE !!!
