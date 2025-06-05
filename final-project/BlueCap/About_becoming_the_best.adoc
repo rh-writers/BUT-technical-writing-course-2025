@@ -8,37 +8,49 @@ To become a technical writer, follow these steps.
 * Social awareness
 * Basic computer skills
 
-== Introduction to tech writing
+== Introduction to technical writing
+
 * What does a technical writer do? 
-	Creates clear, concise and consistent documentation that helps the user understand and use a product.
+
+	Communicates with developers, testers and creates clear, concise and consistent documentation that helps the user understand and use a product.
+
 * Types of technical documentation 
+
 	Manuals/guides, solutions and troubleshooting, release and patch notes  
 
 
 
 == Styles
-* Goals: accessibility, readability, findability
-* Minimalism
+* Make the text accessible, readable and findable
+* Be minimalist, try to limit fluff as much as possible
+* Follow a style guide
 
 
 == Soft skills
-* Communication
-* Curiosity 
-* Proactivity
-* Teamwork
-* Time management 
+* Be clear in communication
+* Stay curious
+* Be proactive
+* Be a team player
+* Have good time management
 
 
 == Hard skills 
-* Product knowledge
-* Content strategy
-* GitHub proficiency
+* Learn about the product
+* Study content strategy
+* Learn how to work with GitHub
+* Get familiar with professional tools
 
-== Peer review 
 
 
-* Attend the RedHat technical writing course
-* Ask a lot of questions(!)
+== Optional (but recommended)
+Attend the amazing RedHat Technical Writing course 
 
-If you seek further eduction see
+
+=== If you seek further education see
 include::other_resources.adoc[]
+
+
+
+
+
+
