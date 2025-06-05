@@ -1,5 +1,9 @@
 = BlueCap
 
-"Any Resemblance to Other Headwear named IT firms Is Purely Coincidental (and Under Investigation)"
+"Any Resemblance to other IT firms named after headware is Purely Coincidental (and Under Investigation)"
 
 include::About_becoming_the_best.adoc[leveloffset=+1]
+
+include::about_BlueCapt.adoc[leveloffset=+1]
+
+include::other_resources.adoc[leveloffset=+1]
