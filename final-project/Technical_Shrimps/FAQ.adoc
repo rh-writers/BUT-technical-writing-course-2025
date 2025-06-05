@@ -2,7 +2,7 @@
 
 
 == 1) Can I become a technical writer with no prior education in technical writing?
-* Of course you can, self-education is more difficult and you will need to research a lot, but you can become a technical writer with enough determination.
+* Of course you can, self-education is more difficult and you will need to research a lot, but anyone can become a technical writer with enough determination.
 
 == 2) What skills do I need in order to become a technical writer?
 * Ability to simplify complex information
@@ -17,7 +17,7 @@
 * Networking, using your social media connections
 
 == 4) Do I need a certificate to become a personal writer?
-* You do not need a certificate, however it can boost your resume.
+* You do not need a certificate, however it can boost your resume especially if you do not have prior experience.
 
 == 5) In what fields can I become a technical writer?
 * Software and technology
@@ -36,4 +36,4 @@
 * Directly connecting with people, messaging people
 
 == 7) What salary can I expect to have as a technical writer?
-* Your salary will depend on your experience, your location and the industry you are working in. Even new technical writers make from $30,000 to $50,000 a year. Contractors can expect to make between $30 and $50 an hour.
+* Your salary will depend on your experience, your location and the industry you are working in. New technical writers can make from $50,000 to $70,000 a year. Contractors can expect to make between $30 and $50 an hour.
