@@ -4,18 +4,17 @@ This paper provides steps and information on how to become a professional techni
 
 ## A table of contents
 
-[none]
-* 1. Prerequisites
-* 2. Procedure
-** What you should aim for?
-*** Accessibility
-*** Readibility
-*** Findability
-**** External
-**** Internal
-*** Minimalism
-** 3. Soft skills
-** 4. Hard skills
+> 1. Prerequisites
+> 2. Procedure
+>> What you should aim for?
+>>> Accessibility
+>>> Readibility
+>>> Findability
+>>>> External
+>>>> Internal
+>> Minimalism
+>> 3. Soft skills
+>> 4. Hard skills
 
 ##  1. Prerequisites
 
