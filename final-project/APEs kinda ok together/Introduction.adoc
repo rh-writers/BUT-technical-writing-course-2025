@@ -1,4 +1,4 @@
- How to make a living as a technical writer
+= How to make a living as a technical writer
 
 This paper provides steps and information on how to become a professional technical writer.
 
