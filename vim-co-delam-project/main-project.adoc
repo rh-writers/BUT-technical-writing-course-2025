@@ -7,8 +7,34 @@ This is technical writing about technical writing
 * It helps users to achieve their goals
 * It must be **accurate, clear and effective** 
 
+=== Forms of technical writing
+* Guides
+* Manuals
+* Release notes
+* Software documentation
+* Solutions
+
 == Prerequisits
+To write a good technical documentation, you need a specific set of skills and know-how
+
+=== Required technology
+* Basic personal computer/laptop 
+* Internet access
+* Browser
+
+=== Know your style guides
+* Technical documentation is usually written in markup language (AsciiDoc)
+* Different types of technical writing require specific text modification
+* 
+
+=== Version Control System
+*
+*
+===
 == Structure
+=== CCC (clear, consise, consistent)
+*
+*
 == Think about your target audience
 == Make it simple!
 == Table of contents
