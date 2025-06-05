@@ -1,0 +1,23 @@
+== Who We Are
+
+We are a team of students from VUT working together on a our final project. 
+
+== Our Goal
+
+To teach anybody how to be an amazing technical writer.
+
+
+== Team Members
+
+* Pavel Ondráček - Program manager
+* Marian Stuchlík - Product manager
+* Michal Deim - Presenter
+* Jan Zouhar - Presenter
+* Matěj Praus - Writer
+* Petr Novotný - Writer
+* Matyáš Trlica - Writer
+
+
+== Contact
+
+For any questions, feel free to reach out through the GitHub repository.

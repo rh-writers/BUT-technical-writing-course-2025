@@ -1,0 +1,8 @@
+= VimCoDelam
+== Table of content
+
+Our table of content:
+
+- https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/vim-co-delam/vim-co-delam-project/about-us.adoc[About us]
+- https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/vim-co-delam/vim-co-delam-project/main-project.adoc[Main project]
+- https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/vim-co-delam/vim-co-delam-project/resources.adoc[Resources]

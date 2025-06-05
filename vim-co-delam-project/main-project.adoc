@@ -1,0 +1,96 @@
+= Introduction to Technical Writing
+
+This is technical writing about technical writing
+
+== 1. What is technical writing?
+* We use technical writing for anyone to learn about specific product. 
+* It helps users to achieve their goals
+* It must be **accurate, clear and effective** 
+
+=== Forms of technical writing
+* Guides
+* Manuals
+* Release notes
+* Software documentation
+* Solutions
+
+== 2. Prerequisites
+To write a good technical documentation, you need a specific set of skills and know-how
+
+=== Required technology
+* Basic personal computer/laptop 
+* Internet access
+* Browser
+
+=== Know your style guides
+* Technical documentation is usually written in markup language (AsciiDoc)
+* Different types of technical writing require specific text modification
+
+=== Version Control System
+You need to to be able to work with your team effectively. 
+By using "version control system", you can:
+
+* Track changes made to the project.
+* Share with others and get feedback.
+* Has visual structure of the project.
+
+== 3. Structure
+It is important to keep structure of the text simple and easy to follow. 
+
+=== 3Cs (clear, concise, consistent)
+
+* Every text should be clear so everyone can understand it. 
+* Text should be oncise, so readers don't waste time reading **fluff**.
+* It also msut be consistent so it makes navigating in the document easy.
+
+== 4. Think about your target audience
+It is important to know, who you write for.
+
+* Use appropriate vocabulary
+* Language(technical, simple)
+* Level of detail
+* Format and purpose
+
+== 5. Make it simple!
+As mentioned before, simplicity is key.
+
+* Be minimalistic (use only what is necessary)
+* Ommit fluff 
+* Short sentences
+* Easily readable
+* Clear headings and step-by-step instructions
+
+== 6. Table of contents
+Table of contents helps unexperienced readers to navigate in the document more easily.
+
+* Use numbered list
+* helps to explain the main point of the text
+* Appropriate headings
+
+== 7. Soft Skills for Technical writing
+
+* Communication - active listening and asking questions
+* Adapting and writing for different audiences
+* Attention to detail
+
+== 8. Hard Skills for Technical writing
+
+* Using tools like word/excel/github
+* Understanding the product and technical topics
+* Formatting and structuring a document
+
+== 9. Logical workflow
+Use predetermined step-by-step process to avoid chaos.
+
+. Obtaining request
+. Gather information and do research
+. Identify your target audience
+. Plan the structure
+. Write the document
+. Review the projec with your team
+. Edit and feedback from experts
+. Publish
+. Stonks
+
+== 10. Troubleshooting
+Helping users, finding and fixing problems
