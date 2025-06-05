@@ -10,7 +10,7 @@ https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed
 
 &#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#findability[2.1.3 Findability]
 
-&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#minimalism[2.1:4 Minimalism]
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#minimalism[2.1.4 Minimalism]
 
 https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#3-soft-skills[3. Soft Skills]
 
