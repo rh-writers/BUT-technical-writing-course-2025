@@ -2,7 +2,7 @@
 
 "Any Resemblance to other IT firms named after headware is Purely Coincidental (and Under Investigation)"
 
-include::About_becoming_the_best.adoc[leveloffset=+1]
+include::Technical_writing_for_students_101.adoc[leveloffset=+1]
 
 include::about_BlueCapt.adoc[leveloffset=+1]
 
