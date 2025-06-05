@@ -22,17 +22,17 @@ To become a technical writer, follow these steps.
 
 
 == Soft skills
-*Communication
-*Curiosity 
-*Proactivity
-*Teamwork
-*Time management 
+* Communication
+* Curiosity 
+* Proactivity
+* Teamwork
+* Time management 
 
 
 == Hard skills 
-*Product knowledge
-*Content strategy
-*GitHub proficiency
+* Product knowledge
+* Content strategy
+* GitHub proficiency
 
 == Peer review 
 
