@@ -4,7 +4,7 @@ Every bit of information these resources contain, was researched for long sleepl
 
 
 ## DISCLAIMER Taken from best repository of knowledge of **ALL TIME**.
-
+-# DISCLAIMER
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-1_Introduction%20to%20technical%20writing%20-%20BUT%202025.pdf[Resource 1] - Introduction
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-2_Tech%20writing%20style%20I%20-%20BUT%202025.pdf[Resource 2] -Tech writing style I  Objectives
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-3_Tech%20writing%20style%20II%20-%20BUT%20Spring%202025.pdf[Resource 3] - Tech writing style II 
