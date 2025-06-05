@@ -70,6 +70,6 @@ when writing a technical documentation you need to educated in the product
 you need to do your reasearch
 Consult 
 you need to know your audinece and decide what level of language to use
-
+you need to follow Style Guides (every product has diffrent styleguides)
 
 
