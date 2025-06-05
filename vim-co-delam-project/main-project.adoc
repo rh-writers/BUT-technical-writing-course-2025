@@ -14,7 +14,7 @@ This is technical writing about technical writing
 * Software documentation
 * Solutions
 
-== Prerequisits
+== Prerequisites
 To write a good technical documentation, you need a specific set of skills and know-how
 
 === Required technology
