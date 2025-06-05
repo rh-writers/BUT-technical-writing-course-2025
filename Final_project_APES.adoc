@@ -2,7 +2,7 @@
 
 This paper provides steps and information on how to become a professional technical writer.
 
-* prerequisites
+##  prerequisites
 * a laptop or a computer
 * a working pair of hands
 * a working brain 
