@@ -1,18 +1,18 @@
-&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#1-prerequisites[1. Prerequisites]
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#1-prerequisites[1. Prerequisites]
 
-&#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#2-procedure[2. Procedure]
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#2-procedure[2. Procedure]
 
-https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#what-you-should-aim-for[What you should aim for?]
+&#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#what-you-should-aim-for[What you should aim for?]
 
-https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#accessibility[Accessibility]
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#accessibility[Accessibility]
 
-https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#readibility[Readibility]
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#readibility[Readibility]
 
-https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#findability[Findability]
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#findability[Findability]
 
-https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#minimalism[Minimalism]
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#minimalism[Minimalism]
 
-https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#3-soft-skills[Soft Skills]
+&#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#3-soft-skills[Soft Skills]
 
-https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#4-hard-skills[Hard Skills]
+&#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/Introduction.adoc#4-hard-skills[Hard Skills]
 
