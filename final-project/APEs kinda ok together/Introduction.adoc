@@ -64,6 +64,10 @@ working as a technical writer is not only about typing but mostly about communic
 * be polite and respectful!
 
 Hard skills
-when writing a technical documentation you need to 
+when writing a technical documentation you need to educated in the product
+you need to do your reasearch
+Consult 
+you need to know your audinece and decide what level of language to use
+
 
 
