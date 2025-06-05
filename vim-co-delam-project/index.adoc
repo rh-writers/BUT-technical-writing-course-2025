@@ -3,8 +3,6 @@
 
 Our table of content:
 
-include::about-us.adoc[leveloffset=+1]
-
-include::main-project.adoc[leveloffset=+1]
-
-include::resources.adoc[leveloffset=+1]
+- https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/vim-co-delam/vim-co-delam-project/about-us.adoc[About us]
+- https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/vim-co-delam/vim-co-delam-project/main-project.adoc[Main project]
+- https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/vim-co-delam/vim-co-delam-project/about-us.adoc[Resources]
