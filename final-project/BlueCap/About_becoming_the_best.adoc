@@ -39,3 +39,6 @@ To become a technical writer, follow these steps.
 
 * Attend the RedHat technical writing course
 * Ask a lot of questions(!)
+
+If you seek further eduction see
+include::other_resources.adoc[]
