@@ -15,3 +15,5 @@ https://github.com/rh-writers/BUT-technical-writing-course-2025/wiki/Josef-Slav%
 https://github.com/rh-writers/BUT-technical-writing-course-2025/wiki/BigBoyBranko[Braňo Šmatlánek - Product Manager]
 
 https://github.com/rh-writers/BUT-technical-writing-course-2025/wiki/Petr-David-Vachta[Petr David Vachta - Writer]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2025/wiki/Rodion-Morozov[Rodion Morozov - Writer]
