@@ -1,0 +1,4 @@
+= Other resources
+
+* link:https://en.wikipedia.org/wiki/Team_Rocket[Wikipedia, duh!]
+* link:https://pokemon.fandom.com/wiki/Team_Rocket[Some other wiki]

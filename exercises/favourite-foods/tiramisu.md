@@ -15,7 +15,6 @@
 - Unsweetened cocoa powder, for dusting
 - Dark chocolate shavings (optional)
 
-
 ## Instructions for cooking
 
 ### 1. Prepare the Cream

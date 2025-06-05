@@ -54,6 +54,7 @@ The lecture overview is only tentative.
 * Product knowledge, overview of the development cycle and the documentation’s place in it
 * Collaborating with product owners, engineers, QE, support teams
 * Content strategy, release management, planning for tech writing, how to create technical content
+* [Slides for day 5 hard skills](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-5-AM-Hard%20skills.pdf)
 
 
 ### Tooling:
@@ -61,14 +62,16 @@ The lecture overview is only tentative.
 * Creating and generating documentation using Markdown
 * Introduction to Git, setting up and using Git command line and GitHub
 * Large language models and generative tools
-
+* [Slides for day 5 tooling](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-5-PM-Tooling.pdf)
+* [Slides for day 5 LLMs](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-5-LLM%20and%20generative%20AI%20-%20VUT%202025.pdf)
 
 ### 6. Teamwork:
 * Roleplay of real-life documentation usecases
 * Collaboration through Google docs and GitHub
 * Creating and reviewing repository submissions on GitHub
+* [Slides for day 6](https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-6%20-%20Collaboration%20%26%20Teamwork%20-%20BUT%202025.pdf)
 
 ### 7. Final Project
-* Details to be revealed later :-)
+* Team-based collaborative workshop emulating the work on a documentation task from the beginning till the end
 
 

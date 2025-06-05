@@ -1,0 +1,9 @@
+= Team Rocket!
+
+A sample content project made of several modules, to help you with AsciiDoc syntax.
+
+include::about-team-rocket.adoc[leveloffset=+1]
+
+include::achieving-world-domination.adoc[leveloffset=+1]
+
+include::other-resources.adoc[leveloffset=+1]
