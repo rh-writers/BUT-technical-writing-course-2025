@@ -38,15 +38,15 @@ Minimalism
 
 Make sure you comply with the prerequisites. To become a great technical writer, you need to follow certain guidelines.
 
-### What you should aim for:
+### 2.1 What you should aim for:
 
-#### Accessibility
+#### 2.1.1 Accessibility
 
 * Your text should be available to everyone with disabilities
 * Make sure a machine can read your text
 * You can achieve this by minimising screenshots
 
-#### Readibility
+#### 2.1.2 Readibility
 
 * Make sure your text follows the  3 Cs:
 
@@ -54,17 +54,17 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 ** Concise 
 ** Consistent
 
-#### Findability
+#### 2.1.3 Findability
 
-* External
+* 2.1.3.1 External
 
 ** Make sure your text is easily findable on the internet by using an appropriate title 
 
-* Internal 
+* 2.1.3.2 Internal 
 
 **Ensure your text is well-structured. ** Keywords are highlighted 
 
-#### Minimalism
+#### 2.1.4 Minimalism
 
 * Use simple language, if you need to use complicated words, provide an explanation
 
