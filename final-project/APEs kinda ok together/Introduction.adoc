@@ -75,7 +75,7 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 Working as a technical writer is not only about typing but mostly about communication
 
-* Don´t be afraid to ask questions and feedback
+* Don´t be afraid to ask questions and request feedback
 * Be curious
 * Be polite and respectful!
 
