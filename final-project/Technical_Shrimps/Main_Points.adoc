@@ -1,0 +1,25 @@
+= Main points
+
+.Each documantation is an important part of the product, as such, it has to follow certain guidelines.
+*The documentation should include:*
+
+* Spellchecking — the documents can contain gramatical errors. They can be reviewed with the use of dedicated programs.
+* Consice structure — good structure is crucial for fast understanding of the text.
+** Workflow — it is important for the document to follow a logical order of points.
+** Prepequisites — it is important to specify the items that the document is about
+** Steps — it is imprtant to divide the document in segments to avoid complications.
+** Verification — it is important to have a verification procedure for the mentioned process.
+* Acronyms — always have an explanation for acronyms mentioned in the text.
+* Style guide — important tool to maintain consistency and conciesness in the document.
+* Version specifity — the doucmentation is always only relevant for a certain version of the product.
+
+.As a writer, it is important to know what things to focus on, in order to produce the best product.
+*While reviewing the documentation you should focus on:*
+
+* Scannability - the document outline should be easy to understand in a short time.
+* Readability - the document should be accessable to everyone.
+* C C C
+** Clear - the text should contain language on the level of the consumer.
+** Concise - the lext should not contain fluf.
+** Consistent - the formatting should not change throughout the document.
+

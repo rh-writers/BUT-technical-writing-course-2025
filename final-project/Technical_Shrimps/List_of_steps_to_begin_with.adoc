@@ -1,0 +1,20 @@
+= List of steps to begin with
+
+1. Search for a style guide of your choosing on the web browser. 
+ + 
+You can look for example at the link:https://developers.google.com/style[Google style guide]. 
+ + 
+Read through it and make sure you keep it opened for reference. 
+ + 
+You can also read our link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/StyleGuides.adoc[overview of style guides].
+
+
+2. If you have access to a professional technical writer you can discuss with them.
+
+3. You can attend a course for beginners in technical writing.
+Consider signing up for link:https://www.coursera.org/learn/technical-writing-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_x&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6490027433&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=20854471652&gbraid=0AAAAADdKX6buP9hpl95kTa3A1cYXfOJGy&gclid=Cj0KCQjwgIXCBhDBARIsAELC9ZiiINpbAHc6JGDviPgeXdvWpbAPW3rb5TbJ-Dlbl8NOazVqFr1db5UaAhNAEALw_wcB[our courses].
+
+4. If possible try to find some projects to partake in to get some real life experience.
+
+ Make sure not to overwork yourself
+

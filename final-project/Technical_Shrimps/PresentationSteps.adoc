@@ -1,0 +1,11 @@
+= *Presenting the srimpical writing*
+
+*Steps to follow*
+
+. Introduction
+. Table of Contents 
+. Prerequisites
+. What to begin with 
+. To regard as a tech. writer
+. Writing styles
+. FAQ

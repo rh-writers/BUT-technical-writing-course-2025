@@ -1,0 +1,30 @@
+= *Table of Contents*
+
+*Contents of the srimpwrite:*
+
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/Technical_Writer_Guide.adoc[Introduction]
+
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/Technical_Writer_Guide.adoc[Prerequisites]
+
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/List_of_steps_to_begin_with.adoc[What to begin with]
+
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/Main_Points.adoc[To regard as a tech. writer]
+
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/StyleGuides.adoc[Writing styles]
+
+. link:https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Shrimp_base/final-project/Technical_Shrimps/FAQ.adoc[FAQ]
+
+
+= Guide to becoming a shrimp technical writer
+
+*This document describes the steps to become a professional (shrimper) from scratch! This guide is the shrimpest and shrimpiest guide in existence. After completing this guide you will be able to freely shrimp on your own.*
+
+*Prerequisites:* 
+
+* Free time
+* Ability to learn
+* Openness to work in a team
+* Positive dispositon towards writing and editing
+* B1 level of knowledge of english (or higher)
+* Shrimp mindset
+* Biological shrimp parents (optional)
