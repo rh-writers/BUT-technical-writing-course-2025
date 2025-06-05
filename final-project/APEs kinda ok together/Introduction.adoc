@@ -47,8 +47,11 @@ To become a great technical writer, you need to follow certain guidelines.
 ## Findability
 
 external
+
 * make sure your text is easily findable on the internet by using an appropriate title 
+
 internal 
+
 * make sure your text is well structured, Keywords are highlighted 
 
 ## Minimalism
