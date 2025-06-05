@@ -1,9 +1,9 @@
-## **Behold our Resources**
+# **Behold our Resources**
 
 Every  information we gathered was considered after long our hour without sleep. Eve one of these "resource" will take you day to even understand, but don't worry WE ARE HERE to help you. We simplified these almost god-like instructions to simple steps to follow so even baby can follow the way of the technical writer.
 
 
-# DISCLAIMER Taken from best repository of knowledge of **ALL TIME**.
+## DISCLAIMER Taken from best repository of knowledge of **ALL TIME**.
 
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-1_Introduction%20to%20technical%20writing%20-%20BUT%202025.pdf[Resource 1]
 - https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/main/slides/2025-Day-2_Tech%20writing%20style%20I%20-%20BUT%202025.pdf[Resource 2]
