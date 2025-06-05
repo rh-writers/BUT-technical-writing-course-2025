@@ -11,7 +11,7 @@ This paper provides steps and information on how to become a professional techni
 |3. Soft skills
 |===
 
-##  Prerequisites
+##  1. Prerequisites
 
 * A laptop or a computer
 * A working pair of hands
@@ -20,7 +20,7 @@ This paper provides steps and information on how to become a professional techni
 * Working eyes (at least one)
 
 
-## Procedure
+## 2. Procedure
 
 Make sure you comply with the prerequisites. To become a great technical writer, you need to follow certain guidelines.
 
@@ -57,7 +57,7 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 
 
-## Soft skills
+## 3. Soft skills
 
 working as a technical writer is not only about typing but mostly about communication
 
