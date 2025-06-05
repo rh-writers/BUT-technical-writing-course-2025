@@ -42,13 +42,13 @@ Make sure you comply with the prerequisites. To become a great technical writer,
 
 #### Findability
 
-##### External
+* External
 
-* Make sure your text is easily findable on the internet by using an appropriate title 
+** Make sure your text is easily findable on the internet by using an appropriate title 
 
-##### Internal 
+* Internal 
 
-* Make sure your text is well structured, Keywords are highlighted 
+** Make sure your text is well structured, Keywords are highlighted 
 
 #### Minimalism
 
