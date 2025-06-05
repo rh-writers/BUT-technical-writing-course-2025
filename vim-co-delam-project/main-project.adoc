@@ -37,11 +37,11 @@ By using "version control system", you can:
 == 3. Structure
 It is important to keep stre structure of the text sip/mple and easy to follow. 
 
-=== 3Cs (clear, consise, consistent)
+=== 3Cs (clear, concise, consistent)
 
 * Every text should be clear so everyone can understand it. 
-* Every text should be consise so readers dont waste time reading **fluff**
-* Every text should be consistent so it makes navigating in the document as easy as possible 
+* Text should be oncise, so readers don't waste time reading **fluff**
+* It also msut be consistent so it makes navigating in the document easy
 
 == 4. Think about your target audience
 It is important to know, who you write for.
@@ -52,10 +52,20 @@ It is important to know, who you write for.
 * Format and purpose
 
 == 5. Make it simple!
-As mentioned before, 
+As mentioned before, simplicity is key.
+
+* Be minimalistic (use only what is necessary)
+* Ommit fluff 
+* Short sentences
+* Easily readable
+* Clear headings and step-by-step instructions
 
 == 6. Table of contents
-Table of contents helps unexperienced readers to navigate in the document more easily
+Table of contents helps unexperienced readers to navigate in the document more easily.
+
+* Use numbered list
+* helps to explain the main point of the text
+* Appropriate headings
 
 == 7. Soft Skills for Technical writing
 
@@ -67,6 +77,7 @@ Table of contents helps unexperienced readers to navigate in the document more e
 
 * Using tools like word/excel/github
 * Understanding the product and technical topics
-* 
+* Formatting and structuring a document
+
 == 9. Logical workflow
 == 10. Troubleshooting
