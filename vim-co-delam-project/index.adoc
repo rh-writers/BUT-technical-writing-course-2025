@@ -1,10 +1,8 @@
 = VimCoDelam
 == Table of content
 
-We are students of VUT APE and this will be our introduction to Technical Writing.
+include::about-us.adoc[leveloffset=+1]
 
 include::main-project.adoc[leveloffset=+1]
-
-include::about-us.adoc[leveloffset=+1]
 
 include::resources.adoc[leveloffset=+1]
