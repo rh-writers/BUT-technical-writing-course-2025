@@ -1,3 +1,9 @@
 = How to make a living as a technical writer
 This paper provides steps and information on how to become a professional technical writer
 
+prerequisites
+- a laptop or a computer
+- a working pair of hands
+- a working brain 
+- logical thinking
+- working eyes (at least one)
