@@ -1,0 +1,84 @@
+# How to make a living as a technical writer
+
+## Table of contents
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#1-prerequisites[1. Prerequisites]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#2-procedure[2. Procedure]
+
+&#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#21-what-you-should-aim-for[2.1 What should you aim for?]
+
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#211-accessibility[2.1.1 Accessibility]
+
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#212-readibility[2.1.2 Readability]
+
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#213-findability[2.1.3 Findability]
+
+&#160; &#160; https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#214-minimalism[2.1.4 Minimalism]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#3-soft-skills[3. Soft Skills]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/How_to_become_TW.adoc#4-hard-skills[4. Hard Skills]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2025/blob/Whitewashed-Krtecek-patch-2/final-project/APEs%20kinda%20ok%20together/About_APEs.adoc#about-us[5. About us]
+
+
+##  1. Prerequisites
+
+* A laptop or a computer
+* A working pair of hands
+* A working brain 
+* Logical thinking
+* Working eyes (at least one)
+
+
+## 2. Procedure
+
+Make sure you comply with the prerequisites. To become a great technical writer, you need to follow certain guidelines.
+
+### 2.1 What you should aim for:
+
+#### 2.1.1 Accessibility
+
+* Your text should be available to everyone with disabilities
+* Make sure a machine can read your text
+* You can achieve this by minimising screenshots
+
+#### 2.1.2 Readability
+
+* Make sure your text follows the  3 Cs:
+
+** Clear 
+** Concise 
+** Consistent
+
+#### 2.1.3 Findability
+
+* External
+
+** Make sure your text is easily findable on the internet by using an appropriate title 
+
+* Internal 
+
+** Ensure your text is well-structured. Keywords are highlighted 
+
+#### 2.1.4 Minimalism
+
+* Use simple language, if you need to use complicated words, provide an explanation
+
+
+
+
+## 3. Soft skills
+
+Working as a technical writer is not only about typing but mostly about communication
+
+* Don´t be afraid to ask questions and request feedback
+* Be curious
+* Be polite and respectful!
+
+## 4. Hard skills
+* When writing technical documentation, you need to be educated about the product and do your research
+* You need to know your audience and decide what level of language to use
+* Follow Style Guides (every product has different style guides)
+
+
