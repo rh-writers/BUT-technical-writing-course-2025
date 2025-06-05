@@ -5,7 +5,6 @@ To become a technical writer, follow these steps.
 * Have amazing teachers from RedHat
 * Motivation to become the best
 * English language proficiency
-* Social awareness
 * Basic computer skills
 
 == Introduction to technical writing
